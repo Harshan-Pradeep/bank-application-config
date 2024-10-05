@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Hey, welcome to Bank accounts related webhook APIs"
+  contactDetails:
+    name: "Harshan Pradeep - Product Owner"
+    email: "harshan@bank.com"
+  onCallSupport:
+    - (453) 392-4829
+    - (236) 203-0384
